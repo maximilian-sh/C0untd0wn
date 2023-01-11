@@ -1,0 +1,13 @@
+{
+    "short_name": "c0untd0wn",
+    "name": "C0untd0wn until school is finished",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "clock-regular.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
