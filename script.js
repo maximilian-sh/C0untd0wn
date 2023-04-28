@@ -1,4 +1,5 @@
-var countDownTimestamp = 1686520800000;
+var countDownTimestamp = 1686931200000;
+
 var x = setInterval(function () {
     var now = Date.now();
     var distanceMS = countDownTimestamp - now;
