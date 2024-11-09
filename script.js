@@ -1,4 +1,4 @@
-var countDownTimestamp = 1727733600000;
+var countDownTimestamp = 1735081200000;
 
 var x = setInterval(function () {
     var now = Date.now();
